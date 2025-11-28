@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
+# this is the code for the Task 1
 """
 euler_quat.py
 Utilities to convert Euler angles <-> quaternions with edge-case handling.
